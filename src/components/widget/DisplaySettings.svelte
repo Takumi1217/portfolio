@@ -43,7 +43,6 @@ $: if (hue || hue === 0) {
     </div>
 </div>
 
-
 <style lang="stylus">
     #display-setting
       input[type="range"]
